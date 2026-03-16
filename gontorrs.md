@@ -10,7 +10,7 @@ I build AI systems that run locally, privately, and at scale — from multi-agen
 ## What I'm working on
 
 **[Autopilot](https://github.com/gontorrs/autopilot)** — Undergraduate thesis and upcoming research paper.  
-A multi-agent desktop automation system: natural language → PDDL formal planning → GUI execution, running fully locally on consumer hardware (≤4 GB VRAM). No cloud. No data leaving your device.  
+A multi-agent desktop automation system: natural language → PDDL formal planning → GUI execution, running fully locally on consumer hardware. No cloud. No data leaving your device.  
 `VLMs` · `PDDL / Fast Downward` · `CrewAI` · `Ollama` · `pyautogui`
 
 ---
@@ -20,9 +20,10 @@ A multi-agent desktop automation system: natural language → PDDL formal planni
 | Project | What it does | Stack |
 |---|---|---|
 | [splendom-ai-assistant](https://github.com/gontorrs/splendom-ai-assistant) | NLU/NER assistant for real estate — fine-tuned RoBERTa, F1=0.92, runs on 8GB RAM | Python, HuggingFace, Llama-70B |
-| [freemove-ufv](https://github.com/gontorrs/freemove-ufv) | Metro navigation app for people with reduced mobility in Madrid | Python |
+| [freemove-ufv](https://github.com/gontorrs/freemove-ufv) | Metro navigation app for people with reduced mobility in Madrid · Best Project Award | Python |
 | [TetrisAssembly-UFV](https://github.com/gontorrs/TetrisAssembly-UFV) | Fully playable Tetris in Z80 Assembly on ZX Spectrum | Assembly |
 | [Quadtree-UGE](https://github.com/gontorrs/Quadtree-UGE) | Bitmap image compression via quadtree algorithm | C |
+| [GreenHouse IoT](https://github.com/fransandooo/invernadero-iot) | Group project for an event-driven smart greenhouse with ESP8266, MQTT and Node-RED | MATLAB, JavaScript & C++ |
 
 ---
 
