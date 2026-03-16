@@ -40,8 +40,8 @@ A multi-agent desktop automation system: natural language → PDDL formal planni
 
 - 1st place at IDavinci 2025 — 72h hackathon (AI chatbot for Babel)
 - Research paper in progress — desktop automation with formal planning + VLMs
-- Erasmus @ Université Gustave Eiffel, Paris
-- Internship @ Minsait / Indra — vulnerability analysis, Docker/K8s, Python
+- Erasmus at Université Gustave Eiffel, Paris
+- Internship at Minsait (Indra) — vulnerability analysis, Docker/K8s, Python
 
 ---
 
