@@ -9,7 +9,7 @@ I build AI systems that run locally, privately, and at scale — from multi-agen
 
 ## What I'm working on
 
-**[Autopilot](https://github.com/gontorrs/autopilot)** — Undergraduate thesis (TFG) and upcoming research paper.  
+**[Autopilot](https://github.com/gontorrs/autopilot)** — Undergraduate thesis and upcoming research paper.  
 A multi-agent desktop automation system: natural language → PDDL formal planning → GUI execution, running fully locally on consumer hardware (≤4 GB VRAM). No cloud. No data leaving your device.  
 `VLMs` · `PDDL / Fast Downward` · `CrewAI` · `Ollama` · `pyautogui`
 
