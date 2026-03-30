@@ -3,7 +3,7 @@
 **AI Engineer & CS Student** · Madrid, Spain  
 Final year at Universidad Francisco de Vitoria · Graduating June 2026
 
-I build AI systems that run locally, privately, and at scale — from multi-agent desktop automation to NLU pipelines fine-tuned on synthetic data.
+I build AI systems that run locally, privately, and at scale — from multi-agent desktop automation to NLU pipelines fine-tuned on custom business data.
 
 ---
 
