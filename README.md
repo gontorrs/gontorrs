@@ -13,9 +13,16 @@ I build AI systems that run locally, privately, and at scale — from multi-agen
 
 **MSc at KU Leuven** — One-year Master's in Engineering, Computer Science branch, focused on AI and multi-agent systems.
 
-**[Autopilot](https://github.com/gontorrs/autopilot)** — Undergraduate thesis, graduated with a 10/10. Research paper in progress.  
+**[Autopilot](https://github.com/gontorrs/autopilot)** — Undergraduate thesis, graduated with a 10/10.  
 A multi-agent desktop automation system: natural language → PDDL formal planning → GUI execution, running fully locally on consumer hardware. No cloud. No data leaving your device.  
 `VLMs` · `PDDL / Fast Downward` · `CrewAI` · `Ollama` · `pyautogui`
+
+**Freelance AI Engineer** (since June 2026): three real systems for three real organisations. The pattern is the same each time: build the system, then make it fully autonomous.
+- **Splendom** (corporate accommodation, Madrid): connected [Hermes](https://hermes-agent.nousresearch.com/), an open-source agent, to the whole company (websites, mailbox, Drive and Sheets, the Kanban board, single sign-on). It maintains the websites on its own and works next to the staff. I also built the public websites: splendomsuites.com (400+ apartments) and splendomoutpost.com.
+- **Psychology Clinic** (Madrid, name withheld for security): a clinical CRM self-hosted in the EU, with patient records, agenda, session notes, payments, synced email, video sessions, e-signed consent, reminders, roles and an audit trail.
+- **DeRetiro**: deretiro.es lists Catholic retreats, parishes and retreat houses across Spain, with sister sites in German and Italian. PalomIA combines AI with deterministic rules so the site updates itself, sending anything doubtful to a human review queue.
+
+`AI agents` · `LLM + rules` · `Human in the loop` · `Next.js` · `PostgreSQL` · `GDPR`
 
 ---
 
@@ -44,9 +51,9 @@ A multi-agent desktop automation system: natural language → PDDL formal planni
 ## Highlights
 
 - Graduated with a 10/10 on my undergraduate thesis (Autopilot)
-- Research paper in progress — desktop automation with formal planning + VLMs
 - 1st place at IDavinci 2025 — 72h hackathon (AI chatbot for Babel)
 - Erasmus at Université Gustave Eiffel, Paris
+- Freelance AI Engineer for Splendom, a psychology clinic in Madrid and DeRetiro
 - Internship at Minsait (Indra) — vulnerability analysis, Docker/K8s, Python
 
 ---
