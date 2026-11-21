@@ -13,7 +13,7 @@ I build AI systems that run locally, privately, and at scale — from multi-agen
 
 **MSc at KU Leuven** — One-year Master's in Engineering, Computer Science branch, focused on AI and multi-agent systems.
 
-**Autopilot** — Undergraduate thesis, graduated with a 10/10. Research paper in progress.  
+**[Autopilot](https://github.com/gontorrs/autopilot)** — Undergraduate thesis, graduated with a 10/10. Research paper in progress.  
 A multi-agent desktop automation system: natural language → PDDL formal planning → GUI execution, running fully locally on consumer hardware. No cloud. No data leaving your device.  
 `VLMs` · `PDDL / Fast Downward` · `CrewAI` · `Ollama` · `pyautogui`
 
@@ -23,7 +23,7 @@ A multi-agent desktop automation system: natural language → PDDL formal planni
 
 | Project | What it does | Stack |
 |---|---|---|
-| Autopilot (TFG) — repo not public yet (paper in progress) | On-device multi-agent desktop automation — natural language → PDDL planning → GUI execution, 100% task success rate, graded 10/10 | Python, CrewAI, Ollama, Fast Downward |
+| [autopilot](https://github.com/gontorrs/autopilot) (TFG) | On-device multi-agent desktop automation — natural language → PDDL planning → GUI execution, 100% task success rate, graded 10/10 | Python, CrewAI, Ollama, Fast Downward |
 | [splendom-ai-assistant](https://github.com/gontorrs/splendom-ai-assistant) | NLU/NER assistant for real estate — fine-tuned RoBERTa, F1=0.92, runs on 8GB RAM | Python, HuggingFace, Llama-70B |
 | [freemove-ufv](https://github.com/gontorrs/freemove-ufv) | Metro navigation app for people with reduced mobility in Madrid · Best Project Award | Python |
 | [TetrisAssembly-UFV](https://github.com/gontorrs/TetrisAssembly-UFV) | Fully playable Tetris in Z80 Assembly on ZX Spectrum | Assembly |
