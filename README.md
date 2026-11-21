@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gonzalo
 
 **AI Engineer & MSc AI Student** · Madrid, Spain → Leuven, Belgium  
-Graduated Universidad Francisco de Vitoria (10/10) · Now pursuing an MSc in Engineering (AI) at KU Leuven
+Graduated Universidad Francisco de Vitoria (10/10) · Now studying the Advanced Master of Artificial Intelligence at KU Leuven
 
 I build AI systems that run locally, privately, and at scale — from multi-agent desktop automation to NLU pipelines fine-tuned on custom business data.
 
@@ -11,13 +11,18 @@ I build AI systems that run locally, privately, and at scale — from multi-agen
 
 ## What I'm working on
 
-**MSc at KU Leuven** — One-year Master's in Engineering, Computer Science branch, focused on AI and multi-agent systems.
+**Advanced Master of Artificial Intelligence at KU Leuven** (2026-2027): one-year master, Engineering and Computer Science option. This year: Natural Language Processing, Uncertainty in AI, Constraint Solving, Privacy and Big Data, and next semester Reinforcement Learning, Deep Learning and Information Retrieval.
 
-**[Autopilot](https://github.com/gontorrs/autopilot)** — Undergraduate thesis, graduated with a 10/10.  
-A multi-agent desktop automation system: natural language → PDDL formal planning → GUI execution, running fully locally on consumer hardware. No cloud. No data leaving your device.  
-`VLMs` · `PDDL / Fast Downward` · `CrewAI` · `Ollama` · `pyautogui`
+**Master's thesis: Safety Enforcement in Robotics Using Probabilistic Logic Shields** (DTAI research group, supervised by Prof. Giuseppe Marra). Reinforcement-learning agents can take dangerous actions while they are still learning. Probabilistic logic shields express safety rules in logic and correct risky actions before they are executed, already during training. My thesis brings these shields to robotic control in simulated environments: how to write the safety rules, plug them into the learning loop and evaluate them.
+
+`Reinforcement learning` · `Safe RL` · `Probabilistic logic` · `Robotics simulation`
+
+---
+
+## Freelance work
 
 **Freelance AI Engineer** (since June 2026): three real systems for three real organisations. The pattern is the same each time: build the system, then make it fully autonomous.
+
 - **Splendom** (corporate accommodation, Madrid): connected [Hermes](https://hermes-agent.nousresearch.com/), an open-source agent, to the whole company (websites, mailbox, Drive and Sheets, the Kanban board, single sign-on). It maintains the websites on its own and works next to the staff. I also built the public websites: splendomsuites.com (400+ apartments) and splendomoutpost.com.
 - **Psychology Clinic** (Madrid, name withheld for security): a clinical CRM self-hosted in the EU, with patient records, agenda, session notes, payments, synced email, video sessions, e-signed consent, reminders, roles and an audit trail.
 - **DeRetiro**: deretiro.es lists Catholic retreats, parishes and retreat houses across Spain, with sister sites in German and Italian. PalomIA combines AI with deterministic rules so the site updates itself, sending anything doubtful to a human review queue.
@@ -30,7 +35,7 @@ A multi-agent desktop automation system: natural language → PDDL formal planni
 
 | Project | What it does | Stack |
 |---|---|---|
-| [autopilot](https://github.com/gontorrs/autopilot) (TFG) | On-device multi-agent desktop automation — natural language → PDDL planning → GUI execution, 100% task success rate, graded 10/10 | Python, CrewAI, Ollama, Fast Downward |
+| [autopilot](https://github.com/gontorrs/autopilot) (bachelor's thesis) | On-device multi-agent desktop automation — natural language → PDDL planning → GUI execution, 100% task success rate, graded 10/10 | Python, CrewAI, Ollama, Fast Downward |
 | [splendom-ai-assistant](https://github.com/gontorrs/splendom-ai-assistant) | NLU/NER assistant for real estate — fine-tuned RoBERTa, F1=0.92, runs on 8GB RAM | Python, HuggingFace, Llama-70B |
 | [freemove-ufv](https://github.com/gontorrs/freemove-ufv) | Metro navigation app for people with reduced mobility in Madrid · Best Project Award | Python |
 | [TetrisAssembly-UFV](https://github.com/gontorrs/TetrisAssembly-UFV) | Fully playable Tetris in Z80 Assembly on ZX Spectrum | Assembly |
