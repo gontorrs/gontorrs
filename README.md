@@ -35,7 +35,7 @@ My goal is to do AI research inside industry: safe and reliable reinforcement le
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Autopilot](https://github.com/gontorrs/autopilot)<br>Bachelor Thesis | On-device multi-agent desktop automation — natural language → PDDL planning → GUI execution, 100% task success rate, graded 10/10 | Python, CrewAI, Ollama, Fast Downward |
+| [Autopilot: ](https://github.com/gontorrs/autopilot)<br>Bachelor Thesis | On-device multi-agent desktop automation — natural language → PDDL planning → GUI execution, 100% task success rate, graded 10/10 | Python, CrewAI, Ollama, Fast Downward |
 | [splendom-ai-assistant](https://github.com/gontorrs/splendom-ai-assistant) | NLU/NER assistant for real estate — fine-tuned RoBERTa, F1=0.92, runs on 8GB RAM | Python, HuggingFace, Llama-70B |
 | [freemove-ufv](https://github.com/gontorrs/freemove-ufv) | Metro navigation app for people with reduced mobility in Madrid · Best Project Award | Python |
 | [TetrisAssembly-UFV](https://github.com/gontorrs/TetrisAssembly-UFV) | Fully playable Tetris in Z80 Assembly on ZX Spectrum | Assembly |
