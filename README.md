@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Gonzalo
 
 **AI Engineer & MSc AI Student** · Madrid, Spain → Leuven, Belgium  
-Graduated Universidad Francisco de Vitoria (10/10) · Now studying the Advanced Master of Artificial Intelligence at KU Leuven
+Graduated Universidad Francisco de Vitoria · Now studying the Advanced Master of Artificial Intelligence at KU Leuven
 
-I build AI systems that run locally, privately, and at scale — from multi-agent desktop automation to NLU pipelines fine-tuned on custom business data.
+My goal is to do AI research inside industry: safe and reliable reinforcement learning, autonomous agents that plan, act and verify their own work, and turning that research into systems people actually use. From September 2027 I am looking for Research Engineer and AI research roles in Europe.
 
 **Portfolio:** [gontorras.cloud](https://gontorras.cloud) · [source](https://github.com/gontorrs/portfolio)
 
@@ -27,7 +27,7 @@ I build AI systems that run locally, privately, and at scale — from multi-agen
 - **Psychology Clinic** (Madrid, name withheld for security): a clinical CRM self-hosted in the EU, with patient records, agenda, session notes, payments, synced email, video sessions, e-signed consent, reminders, roles and an audit trail.
 - **DeRetiro**: deretiro.es lists Catholic retreats, parishes and retreat houses across Spain, with sister sites in German and Italian. PalomIA combines AI with deterministic rules so the site updates itself, sending anything doubtful to a human review queue.
 
-`AI agents` · `LLM + rules` · `Human in the loop` · `Next.js` · `PostgreSQL` · `GDPR`
+`AI agents` · `LLM + rules` · `Human in the loop` · `PostgreSQL` · `GDPR`
 
 ---
 
@@ -35,21 +35,20 @@ I build AI systems that run locally, privately, and at scale — from multi-agen
 
 | Project | What it does | Stack |
 |---|---|---|
-| [autopilot](https://github.com/gontorrs/autopilot) (bachelor's thesis) | On-device multi-agent desktop automation — natural language → PDDL planning → GUI execution, 100% task success rate, graded 10/10 | Python, CrewAI, Ollama, Fast Downward |
+| [Autopilot](https://github.com/gontorrs/autopilot)<br>Bachelor Thesis | On-device multi-agent desktop automation — natural language → PDDL planning → GUI execution, 100% task success rate, graded 10/10 | Python, CrewAI, Ollama, Fast Downward |
 | [splendom-ai-assistant](https://github.com/gontorrs/splendom-ai-assistant) | NLU/NER assistant for real estate — fine-tuned RoBERTa, F1=0.92, runs on 8GB RAM | Python, HuggingFace, Llama-70B |
 | [freemove-ufv](https://github.com/gontorrs/freemove-ufv) | Metro navigation app for people with reduced mobility in Madrid · Best Project Award | Python |
 | [TetrisAssembly-UFV](https://github.com/gontorrs/TetrisAssembly-UFV) | Fully playable Tetris in Z80 Assembly on ZX Spectrum | Assembly |
 | [Quadtree-UGE](https://github.com/gontorrs/Quadtree-UGE) | Bitmap image compression via quadtree algorithm | C |
-| [GreenHouse IoT](https://github.com/fransandooo/invernadero-iot) | Group project for an event-driven smart greenhouse with ESP8266, MQTT and Node-RED | MATLAB, JavaScript & C++ |
 
 ---
 
 ## Skills
 
-**AI / ML:** Fine-tuning (RoBERTa, Llama), VLMs, NLP, CNNs, MLPs, synthetic data pipelines  
+**AI / ML:** Reinforcement learning (MuJoCo, Gymnasium), autonomous agents, PDDL planning, VLMs, NLP, fine-tuning (RoBERTa, Llama), CNNs, MLPs, synthetic data pipelines  
 **Infra:** Docker, Kubernetes, Git, Linux  
 **Languages:** Python · Java · C · Assembly (Z80)  
-**Libraries:** TensorFlow, Scikit-learn, HuggingFace, CrewAI, Pandas  
+**Libraries:** PyTorch, Gymnasium, MuJoCo, TensorFlow, Scikit-learn, HuggingFace, CrewAI, Pandas  
 
 ---
 
